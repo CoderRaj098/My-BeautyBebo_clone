@@ -24,6 +24,11 @@ The landing page of BeautyBebo.com displays the navigation bar which contains Fi
 # Signup Page :
 ![Screenshot (4)](https://user-images.githubusercontent.com/95957299/174484858-bf814fcc-a644-4bd0-9895-7e0e247c3088.png)
 
+## Contributor
+Raj Singh :
+Shailendra Singh :
+
+
 
 
 
